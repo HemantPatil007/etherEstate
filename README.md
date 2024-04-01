@@ -1,5 +1,5 @@
 # etherEstate
-## Real Estate NFT DApp
+### Real Estate NFT DApp
 
 ## Technology Stack & Tools
 - Solidity (Writing Smart Contracts & Tests)
@@ -29,4 +29,3 @@ In a separate terminal execute:
 
 ### 6. Start frontend
 `$ npm run start`
-=======
